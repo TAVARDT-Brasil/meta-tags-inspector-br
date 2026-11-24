@@ -2,6 +2,7 @@
 
 [![Inspetor Meta Tags](https://img.shields.io/badge/TAVARDT-Meta%20Tags-5b3cf5.svg)](https://tools.tavardt.com/br/verificador-meta-tags/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Auditoria de metadados HTML, analise de comprimento de titulos e meta descricoes, pre-visualizacao de cards sociais e checagem de diretivas de indexacao.
 
@@ -49,6 +50,20 @@ Para pre-visualizacao visual de snippets e teste em tempo real:
 ## Consultoria em Otimizacao e SEO Tecnico
 
 Para projetos de aprimoramento de visibilidade organica e conformidade com Boas Praticas de SEO Tecnico e Compartilhamento Social, contate a equipe da **TAVARDT**.
+
+***
+
+## Governança e Soberania
+
+* **Unidade Soberana**: **TAVARDT Brasil** (`TAVARDT-Brasil`)
+* **Normas Centrais**: [00-core Governança](https://github.com/TAVARDT-Brasil/00-core)
+* **Central de Diagnósticos**: **Central de Ferramentas TAVARDT**
+* **Segurança Corporativa**: [TAVARDT Cibersegurança](https://ag.tavardt.com/br/ciberseguranca/)
+
+***
+
+### Licença
+Distribuído sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter detalhes completos.
 
 ***
 
