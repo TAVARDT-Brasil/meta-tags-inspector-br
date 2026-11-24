@@ -1,14 +1,13 @@
 # Inspetor de Meta Tags e Open Graph | TAVARDT Brasil
 
 [![Inspetor Meta Tags](https://img.shields.io/badge/TAVARDT-Meta%20Tags-5b3cf5.svg)](https://tools.tavardt.com/br/verificador-meta-tags/)
-[![Jurisdicao](https://img.shields.io/badge/Jurisdicao-Brasil-00C853.svg)](https://ag.tavardt.com/br/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 
 Auditoria de metadados HTML, analise de comprimento de titulos e meta descricoes, pre-visualizacao de cards sociais e checagem de diretivas de indexacao.
 
-Desenvolvido e mantido pela divisao de engenharia de busca e experiencia do usuario da **[TAVARDT Brasil](https://ag.tavardt.com/br/)**.
+Desenvolvido e mantido pela divisao de engenharia de busca e experiencia do usuario da **TAVARDT Brasil**.
 
----
+***
 
 ## Capacidades de Auditoria de Metadados e Redes Sociais
 
@@ -18,7 +17,7 @@ Desenvolvido e mantido pela divisao de engenharia de busca e experiencia do usua
 * **Controle de Indexabilidade**: Rastreio de diretivas meta robots (noindex, nofollow) e verificacao de tag canonica.
 * **Pontuacao de Qualidade de Snippet**: Indice tecnico de 0 a 100 com recomendacoes diretas de redacao e formatacao de metadados.
 
----
+***
 
 ## Instalacao e Execucao
 
@@ -33,20 +32,20 @@ python meta_inspector.py exemplo.com.br
 Para gerar a saida em formato estruturado JSON:
 
 ```bash
-python meta_inspector.py exemplo.com.br --json
+python meta_inspector.py exemplo.com.br -json
 ```
 
----
+***
 
 ## Diagnostico Completo na Web
 
 Para pre-visualizacao visual de snippets e teste em tempo real:
 
-* **[Inspetor de Meta Tags Oficial](https://tools.tavardt.com/br/verificador-meta-tags/)**
+* **Inspetor de Meta Tags Oficial**
 * **[Portal Corporativo TAVARDT Brasil](https://ag.tavardt.com/br/)**
 
----
+***
 
 ## Consultoria em Otimizacao e SEO Tecnico
 
-Para projetos de aprimoramento de visibilidade organica e conformidade com Boas Praticas de SEO Tecnico e Compartilhamento Social, contate a equipe da **[TAVARDT Brasil](https://ag.tavardt.com/br/contato/)**.
+Para projetos de aprimoramento de visibilidade organica e conformidade com Boas Praticas de SEO Tecnico e Compartilhamento Social, contate a equipe da **TAVARDT Brasil**.
