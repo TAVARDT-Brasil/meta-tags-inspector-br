@@ -5,7 +5,7 @@
 
 Auditoria de metadados HTML, analise de comprimento de titulos e meta descricoes, pre-visualizacao de cards sociais e checagem de diretivas de indexacao.
 
-Desenvolvido e mantido pela divisao de engenharia de busca e experiencia do usuario da **TAVARDT Brasil**.
+Desenvolvido e mantido pela divisao de engenharia de busca e experiencia do usuario da **TAVARDT**.
 
 ***
 
@@ -42,13 +42,13 @@ python meta_inspector.py exemplo.com.br -json
 Para pre-visualizacao visual de snippets e teste em tempo real:
 
 * **Inspetor de Meta Tags Oficial**
-* **[Portal Corporativo TAVARDT Brasil](https://ag.tavardt.com/br/)**
+* **[Portal Corporativo TAVARDT](https://ag.tavardt.com/br/)**
 
 ***
 
 ## Consultoria em Otimizacao e SEO Tecnico
 
-Para projetos de aprimoramento de visibilidade organica e conformidade com Boas Praticas de SEO Tecnico e Compartilhamento Social, contate a equipe da **TAVARDT Brasil**.
+Para projetos de aprimoramento de visibilidade organica e conformidade com Boas Praticas de SEO Tecnico e Compartilhamento Social, contate a equipe da **TAVARDT**.
 
 ***
 
